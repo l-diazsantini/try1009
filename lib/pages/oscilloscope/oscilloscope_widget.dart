@@ -469,7 +469,7 @@ class _OscilloscopeWidgetState extends State<OscilloscopeWidget> {
                             padding: EdgeInsetsDirectional.fromSTEB(
                                 0.0, 0.0, 5.0, 0.0),
                             child: Text(
-                              '[Other Meas]:',
+                              'Current Point:',
                               style: FlutterFlowTheme.of(context)
                                   .headlineMedium
                                   .override(
